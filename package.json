@@ -33,6 +33,7 @@
     "@angular/compiler-cli": "^19.2.0",
     "@types/jasmine": "~5.1.0",
     "@types/mapbox-gl": "^3.4.1",
+    "angular-cli-ghpages": "^2.0.3",
     "angular-eslint": "19.3.0",
     "eslint": "^9.23.0",
     "eslint-config-prettier": "^10.1.1",
